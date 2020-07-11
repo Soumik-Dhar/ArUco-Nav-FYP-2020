@@ -28,11 +28,11 @@ From the command line, execute the following:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/ArUco-Nav-Final-Year-Project-20/ArUco-Nav.git/
+$ git clone https://github.com/Soumik-Dhar/ArUco-Nav-FYP-2020.git/
 ```
 ```bash
 # Go into the repository
-$ cd ArUco-Nav/
+$ cd ArUco-Nav-FYP-2020/
 ```
 ```bash
 # Install dependencies
